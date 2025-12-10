@@ -9,5 +9,6 @@ Esta línea se ha añadido desde GitHub.
 
 ## Instalación
 Esta frase es de la rama 1.
+Esta frase es de la rama 2.
 
 
